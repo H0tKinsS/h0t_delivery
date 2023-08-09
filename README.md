@@ -1,4 +1,4 @@
-# esx_deliveries
+# h0t_delivery
 FiveM delivery job script by H0tKinsS
 
 ## Features
