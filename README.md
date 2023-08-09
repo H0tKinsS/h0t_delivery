@@ -25,7 +25,7 @@ git clone https://github.com/H0tKinsS/h0t_delivery [esx]/h0t_delivery
 
 ## Installation
 
-- Import wh-job.sql to your database
+- Import h0t_delivery.sql to your database
 - Add this in your `server.cfg`:
 
 ```
