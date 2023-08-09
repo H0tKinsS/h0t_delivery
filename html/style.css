@@ -1,0 +1,47 @@
+body {
+    background-color: transparent!important;
+}
+
+#container {
+    position: absolute;
+    width: 15vw;
+    bottom: 24%;
+    left: 1.5%;
+    color: white;
+    text-align: left;
+    display: none;
+    font-family: 'Oswald', sans-serif;
+}
+.boxes{
+    position: relative;
+    display:block;
+    margin-bottom: 10px;
+    margin-left: 2px;
+    color: rgb(218, 18, 95);
+    font-size: 1.6rem;
+    letter-spacing: 2px;
+}
+#load-percentage{
+    position: absolute;
+    color: rgb(218, 18, 95);
+    font-size: 1.6rem;
+    letter-spacing: 2px;
+    right: 0;
+    bottom: 20px;
+}
+.frame {
+    width: 100%;
+    height: 15px;
+    position: relative;
+    bottom: 0%;
+    background-color: rgb(102, 102, 102);
+    border-radius: 20px;
+}
+#load {
+/*     background: linear-gradient(45deg,rgba(0,255,0,0.8) 25%, transparent 25%, transparent 50%,rgba(0,255,0,0.8) 25%);*/
+    background: rgb(218, 18, 95);
+    transition: 0.5 ease-in;
+    border-radius: 20px;
+    width: 0%;
+    height: 15px;
+}
